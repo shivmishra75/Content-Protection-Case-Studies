@@ -3,7 +3,7 @@
 A professional portfolio showcasing investigation methodologies, anti-piracy workflows, content protection operations, and incident reporting practices used in digital content enforcement environments.
 
 <p align="center">
-  <img src="./content-protection-case-studies-banner.png" alt="Content Protection Case Studies">
+  <img src="./Content Protection Case Studies.png" alt="Content Protection Case Studies">
 </p>
 
 ## Overview
