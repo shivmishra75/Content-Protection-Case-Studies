@@ -2,6 +2,8 @@
 
 A professional portfolio showcasing investigation methodologies, anti-piracy workflows, content protection operations, and incident reporting practices used in digital content enforcement environments.
 
+![Content Protection Case Studies](./Content Protection Case Studies.png)
+
 ## Overview
 
 This repository contains sample case studies, investigation frameworks, reporting templates, and operational workflows related to:
